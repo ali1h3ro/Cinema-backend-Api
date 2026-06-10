@@ -1,0 +1,4 @@
+# Exclude the Maven wrapper from GitHub language stats so the repo is detected as Java
+/mvnw linguist-vendored
+/mvnw.cmd linguist-vendored
+/.mvn/ linguist-vendored
